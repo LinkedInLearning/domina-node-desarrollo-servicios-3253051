@@ -1,0 +1,16 @@
+{
+  "name": "01_04",
+  "version": "1.0.0",
+  "description": "Crear un token con JWT y Express.js",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LinkedIn Learning",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
