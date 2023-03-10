@@ -19,10 +19,13 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Node v16.14.2
+   - Editor de Código (Visual Studio Code es el utilizado durante el curso)
+   - Docker (Se usa para la instalación de Redis `docker run --name redis_container -d -p 6379:6379 -e REDIS_PASSWORD="PASSWORD" redis redis-server --requirepass "PASSWORD"`)
+   - RedisInsight-v2 (Opcional)
+
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
 
 ### Docente
 
