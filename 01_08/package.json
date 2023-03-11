@@ -1,0 +1,14 @@
+{
+  "name": "01_08",
+  "version": "1.0.0",
+  "description": "Asignar rutas en fastify",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LinkedIn Learning",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.13.0"
+  }
+}
