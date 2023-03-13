@@ -1,0 +1,14 @@
+{
+  "name": "02_09",
+  "version": "1.0.0",
+  "description": "Error de indefinido el req.body en Express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LinkedIn Learning",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
