@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Domina Node: Desarrollo 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Mejora tu nivel con Node.js gracias a este curso práctico cargado de ejercicios de ejemplo que te ayudan a aprender a resolver los problemas más comunes, y también algunos poco frecuentes, de forma amena y entretenida. Muchos de los problemas específicos de la programación con Node los encontrarás en este contenido pensado para afianzar tus conocimientos y mejorar tus desarrollos con el entorno.
 
 ## Instrucciones
 
