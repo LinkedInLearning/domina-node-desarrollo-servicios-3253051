@@ -2,11 +2,11 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[Domina Node: Desarrollo de servicios]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![image](https://github.com/LinkedInLearning/domina-node-desarrollo-servicios-3253051/assets/71371373/15f523e2-2a88-41f7-bc99-37fe4bf4ff4a)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Mejora tu nivel con Node.js gracias a este curso práctico cargado de ejercicios de ejemplo que te ayudan a aprender a resolver los problemas más comunes, y también algunos poco frecuentes, de forma amena y entretenida. Muchos de los problemas específicos de la programación con Node los encontrarás en este contenido pensado para afianzar tus conocimientos y mejorar tus desarrollos con el entorno.
 
 ## Instrucciones
 
@@ -34,7 +34,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-node-desarrollo-de-servicios/desarrollando-servicios-con-node
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
